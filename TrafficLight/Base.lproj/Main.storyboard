@@ -70,13 +70,10 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="VievController" destination="8bC-Xf-vdC" id="mnO-UH-PFL"/>
-                        <outlet property="ViewConroller" destination="8bC-Xf-vdC" id="6PP-6n-vVs"/>
-                        <outlet property="greenLight" destination="Gcg-Z1-kEy" id="zvY-ZB-sqs"/>
-                        <outlet property="redLight" destination="3po-GL-1mu" id="J6B-Oa-Qhp"/>
-                        <outlet property="startButton" destination="OWH-5Q-twA" id="jLF-de-nP8"/>
-                        <outlet property="startbutton" destination="OWH-5Q-twA" id="jeN-IA-4Nd"/>
-                        <outlet property="yellowLight" destination="EVM-qR-Phw" id="vTG-6X-lIV"/>
+                        <outlet property="greenLight" destination="Gcg-Z1-kEy" id="mAu-ph-SAF"/>
+                        <outlet property="redLight" destination="3po-GL-1mu" id="Uvr-yQ-NKu"/>
+                        <outlet property="startButton" destination="OWH-5Q-twA" id="BW3-bW-1EP"/>
+                        <outlet property="yellowLight" destination="EVM-qR-Phw" id="uFX-rb-Z0f"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

@@ -16,9 +16,9 @@ class ViewController: UIViewController {
     @IBOutlet var redLight: UIView!
     @IBOutlet var yellowLight: UIView!
     @IBOutlet var greenLight: UIView!
-
+    
     @IBOutlet var startButton: UIButton!
-
+    
     private var colorLight = ColorLight.red
     private let lightIsOn = 1
     private let lightIsOff = 0.3
